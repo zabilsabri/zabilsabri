@@ -8,7 +8,7 @@
 Hey there! I’m Zabil — the kind of developer who can debug a 500 error without breaking (too much) of a sweat.
 Currently juggling:
 - Working remotely as a Full-Stack Developer in Makassar
-- Building Laravel side projects for fun
+- Building Laravel side projects for fun and trying new tools
 - Running backend experiments with Express.js + whatever’s new
 - Starting a software house startup while managing products that are already deployed
 - Maintaining a relationship (with the database, of course — you think I have time for a girlfriend after all that?)
