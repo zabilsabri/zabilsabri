@@ -1,12 +1,52 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif?cid=790b7611btdt96za56l8k5bykbuf3lf9h8b4p6t0hqlqlo5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
-  <div id="badges" style="text-align: center">
-    <a href="https://www.linkedin.com/in/zabil-sabri-muhammad-37694a233">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/zabilsabri">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=zabilsabri&style=flat-square&color=blue" alt=""/>
-</div>
+# 👋 Hi there, I’m Zabil Sabri
+
+> FullStack sorcerer | Laravel tinkerer | Backend Development Enthusiast
+
+---
+
+### About Me
+Hey there! I’m Zabil — the kind of developer who can debug a 500 error without breaking (too much) of a sweat.
+Currently juggling:
+- Working remotely as a Full-Stack Developer in Makassar
+- Building Laravel side projects for fun
+- Running backend experiments with Express.js + whatever’s new
+- Starting a software house startup while managing products that are already deployed
+- Maintaining a relationship (with the database, of course — you think I have time for a girlfriend after all that?)
+
+---
+
+### My Favorite Tools
+| Category | Stack |
+|-----------|--------|
+| **Backend** | Express.js |
+| **Database** | MySQL, PostgreSQL |
+| **Frontend** | Based on my mood at that time |
+| **FullStack** | Laravel 12 |
+
+---
+
+### My Coding Philosophy
+> "If it works, don’t touch it.
+
+---
+
+### Sodra Tech
+I run **[Sodra Tech](https://instagram.com/sodra.tech)** —  
+where we turn ideas and chaos into client-ready code.  
+Expect programming memes, dev tips, and maybe a side of existential crisis.
+
+---
+
+### Fun Facts
+- My debugging technique: **stare at the code until it stares back.**  
+- I opened a WebSocket just to feel connected.
+
+---
+
+### Let’s Connect
+[LinkedIn: Zabil Sabri Muhammad](https://www.linkedin.com/in/zabil-sabri-muhammad-37694a233)  
+[Instagram: @zabilsabri](https://www.instagram.com/zabilsabri/)  
+
+---
+
+> 🧩 _“Code. Red Velvet or Mango Milky. Repeat.”_
