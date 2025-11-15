@@ -11,7 +11,6 @@ Currently juggling:
 - Building Laravel side projects for fun and trying new tools
 - Running backend experiments with Express.js + whatever’s new
 - Starting a software house startup while managing products that are already deployed
-- Maintaining a relationship (with the database, of course — you think I have time for a girlfriend after all that?)
 
 ---
 
